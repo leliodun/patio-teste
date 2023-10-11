@@ -37,11 +37,19 @@ main > img {
 
 img#drink {
     width: 30vw;
+    position: absolute;
+    left: 68%;
+    margin: auto;    
+    display: block;
 }
 
 
 img#chopp {
     width: 40vw;
+    position: absolute;
+    left: 58%;
+    margin: auto;    
+    display: block;
 }
 
 hr {
