@@ -26,14 +26,14 @@ body {
 
 img {
     margin: auto;
-    margin-top: 50px;
+    
     display: block;
     width: 20vw;
 }
 
 hr {
     margin: auto;
-    margin-top: 50px;
+    margin-top: 5vw;
   }
 
 h1, h2, p {
@@ -41,15 +41,15 @@ h1, h2, p {
 }
 
 h1, h2 {
-    margin: 3px;
-    margin-left: 93px;
+    margin: 0.3vw;
+    margin-left: 5vw;
 }
 
 h1 {
     font-size: 1.5em;
     color: var(--corbranco);
-    margin-top: 100px;
-    margin-bottom: 15px;
+    margin-top: 5vw;
+    margin-bottom: 1vw;
 }
 
 h2 {
@@ -66,5 +66,5 @@ p {
 }
 
 p#fim {
-    padding-bottom: 200px;
+    padding-bottom: 10vw;
 }
