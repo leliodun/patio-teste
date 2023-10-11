@@ -1,0 +1,64 @@
+@charset "utf8";
+
+:root {
+    --cor0: ;
+    --cor1: #ff7b00;
+    --cor2: #3ddc84;
+    --cor3: #2fa866;
+    --cor4: #1a5c37;
+    --cor5: #063d1e;
+    --corbranco: #ffffff;
+    --corpreto: #000000;
+}
+
+* {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+body {
+    background-color: var(--corpreto)
+}
+
+img {
+    margin: auto;
+    margin-top: 50px;
+    display: block;
+}
+
+hr {
+    margin: auto;
+    margin-top: 50px;
+  }
+
+h1, h2 {
+    margin: 3px;
+    margin-left: 93px;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: var(--corbranco);
+    margin-top: 100px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 1.3em;
+    color: var(--cor1);
+    display: inline-flex;
+}
+
+p {
+    font-size: 1em;
+    color: var(--corbranco);
+    display: inline;
+}
+
+p#fim {
+    padding-bottom: 200px;
+}
