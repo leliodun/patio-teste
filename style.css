@@ -33,7 +33,15 @@ main > img {
     left: 68%;
     margin: auto;    
     display: block;
+}
+
+img#drink {
     width: 30vw;
+}
+
+
+img#chopp {
+    width: 40vw;
 }
 
 hr {
