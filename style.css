@@ -36,6 +36,10 @@ hr {
     margin-top: 50px;
   }
 
+h1, h2, p {
+    text-align: left;
+}
+
 h1, h2 {
     margin: 3px;
     margin-left: 93px;
@@ -49,6 +53,7 @@ h1 {
 }
 
 h2 {
+    
     font-size: 1.3em;
     color: var(--cor1);
     display: inline-flex;
