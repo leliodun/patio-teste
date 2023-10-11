@@ -29,9 +29,11 @@ body {
 }
 
 main > img {
+    position: absolute;
+    left: 68%;
     margin: auto;    
     display: block;
-    width: 15vw;
+    width: 30vw;
 }
 
 hr {
