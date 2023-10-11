@@ -18,15 +18,18 @@
     margin: 0px;
 }
 
-
+header > img {
+    margin: auto;    
+    display: block;
+    width: 20vw;
+}
 
 body {
     background-color: var(--corpreto)
 }
 
-img {
-    margin: auto;
-    
+main > img {
+    margin: auto;    
     display: block;
     width: 20vw;
 }
@@ -34,7 +37,7 @@ img {
 hr {
     margin: auto;
     margin-top: 5vw;
-  }
+}
 
 h1, h2, p {
     text-align: left;
