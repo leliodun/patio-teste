@@ -67,7 +67,7 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 1.5em;
+    font-size: 4.5vw;
     color: var(--corbranco);
     margin-top: 5vw;
     margin-bottom: 1vw;
@@ -75,13 +75,13 @@ h1 {
 
 h2 {
     
-    font-size: 1.3em;
+    font-size: 3.5vw;
     color: var(--cor1);
     display: inline-flex;
 }
 
 p {
-    font-size: 1em;
+    font-size: 2.5vw;
     color: var(--corbranco);
     display: inline;
 }
